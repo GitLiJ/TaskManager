@@ -1,4 +1,4 @@
-package course.se.taskmanager;
+package TaskMan.course.se.taskmanager;
 public class UserLogin {
     private UserRegistration userRegistration;
     public UserLogin(UserRegistration userRegistration) {
