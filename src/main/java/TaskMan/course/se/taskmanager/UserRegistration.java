@@ -1,4 +1,4 @@
-package course.se.taskmanager;
+package TaskMan.course.se.taskmanager;
 import java.util.HashMap;
 import java.util.Map;
 public class UserRegistration {
